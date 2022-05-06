@@ -1,5 +1,5 @@
 
-Debagnik Kar
+[Debagnik Kar](http://debagnik.github.io/Resume)
 ============
 
 Profile
@@ -19,9 +19,11 @@ I am an electronics and telecommunication engineering with keen interest in IoT,
 ### Details
 
 **Name:**  
-Debagnik Kar  
+[Debagnik Kar](http://debagnik.github.io/Resume)  
 **Age:**  
-22 years(2022)  
+22 years(2022)
+**Portfolio Website**
+[debagnik.me/Resume](http://debagnik.github.io/Resume)
 **Location:**  
 Patia, Bhubaneswar, Odisha, INDIA  
 
