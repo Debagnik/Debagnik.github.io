@@ -36,7 +36,7 @@ Experiences
 Apr 2022 (Currently pursuing)  
 Jun 2018
 
-**Course - B.Tech (Electronics and Telecommunication), GPA:7.82** B.Tech is an undergraduate academic degree conferred after completion of a 4 year programme of studies at an accredited University. In India B.Tech and B.Eng. are identical and is a 3 – 4 years of academic course depending on the previous level of education. Bhubaneswar, Odisha, India.
+**Course - B.Tech (Electronics and Telecommunication), GPA:8.03** B.Tech is an undergraduate academic degree conferred after completion of a 4 year programme of studies at an accredited University. In India B.Tech and B.Eng. are identical and is a 3 – 4 years of academic course depending on the previous level of education. Bhubaneswar, Odisha, India.
 
 #### Midnapore Collegiate School
 
