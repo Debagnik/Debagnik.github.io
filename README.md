@@ -21,7 +21,7 @@ I am an electronics and telecommunication engineering with keen interest in IoT,
 [Debagnik Kar](http://debagnik.github.io/Resume)  
 **Age:**  
 22 years(2022)  
-**Portfolio Website**  
+**Portfolio Website:**  
 [debagnik.me/Resume](http://debagnik.github.io/Resume)  
 **Location:**  
 Patia, Bhubaneswar, Odisha, INDIA  
