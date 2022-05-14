@@ -152,7 +152,7 @@ Contact
 
 *   [![youtube Icon for Rak_Kingabed](./view/Images/youtube-01.png)Subscribe me on Youtube](https://www.youtube.com/channel/UC5TJ5j8xY9f-LNT2TbQpttQ)
 *   [![spotify for Rak_Kingabed](./view/Images/spotify-01.png)Stream my music at Spotify](https://open.spotify.com/artist/5dFq7tR1ZJpQLnUvmS4oK5)
-*   [![email Icon for 1804373@kiit.ac.in](./view/Images/email-01.png)Send an Email to me](mailto:1804373@kiit.ac.in)
+*   [![email Icon for debagnikkar@outlook.com](./view/Images/email-01.png)Send an Email to me](mailto:debagnikkar@outlook.com)
 
 * * *
 
